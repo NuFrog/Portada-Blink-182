@@ -1,0 +1,94 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Lato", sans-serif;
+}
+
+.container {
+  width: 600px;
+  height: 600px;
+  border: 1px solid #c7c5c5;
+  background-color: #000000;
+  margin: 30px auto;
+}
+.section-left {
+  float: left;
+  width: 70%;
+  height: 600px;
+}
+h1 {
+  color: white;
+  font-size: 25px;
+  margin-top: 300px;
+  margin-left: 30px;
+  font-weight: 900;
+  letter-spacing: 2px;
+  float: left;
+}
+.circulos-blink182-wrapper {
+  margin-top: 297px;
+}
+.circulos-blink182 {
+  float: left;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 3px solid white;
+  position: relative;
+  margin-right: 3px;
+}
+h2 {
+  margin-left: 8px;
+  margin-top: -2px;
+  color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+}
+#parental {
+  width: 70px;
+  margin-left: -190px;
+  margin-top: 190px;
+}
+.section-right {
+  float: left;
+  width: 30%;
+  height: 600px;
+}
+.circulo {
+  width: 130px;
+  height: 130px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+  position: relative;
+}
+#circulo-rojo {
+  background: rgb(181, 48, 51);
+}
+#circulo-amarillo {
+  background: rgb(239, 189, 38);
+}
+#circulo-verde {
+  background: rgb(56, 153, 29);
+}
+.circulo-negro-contorno {
+  width: 110px;
+  height: 110px;
+  border: 3px solid black;
+  border-radius: 50%;
+  position: absolute;
+  top: 8px;
+  left: 8px;
+}
+img {
+  width: 50px;
+  height: 50px;
+  padding: 30px;
+}
+
+#pantalon {
+  width: 70px;
+  height: 70px;
+  padding: 20px;
+}
+.alinear {
+  margin-top: 100px;
+}
